@@ -1,0 +1,10 @@
+.workbuddy/
+__pycache__/
+*.pyc
+dist/
+assets/skeleton.html
+_*.html
+_*.png
+_*.js
+_*.txt
+_shot-*
